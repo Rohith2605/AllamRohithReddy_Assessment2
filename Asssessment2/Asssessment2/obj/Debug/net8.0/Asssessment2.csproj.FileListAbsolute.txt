@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Asssessment2\Asssessment2\bin\Debug\net8.0\Asssessment2.exe
+C:\Users\HP\source\repos\Asssessment2\Asssessment2\bin\Debug\net8.0\Asssessment2.deps.json
+C:\Users\HP\source\repos\Asssessment2\Asssessment2\bin\Debug\net8.0\Asssessment2.runtimeconfig.json
+C:\Users\HP\source\repos\Asssessment2\Asssessment2\bin\Debug\net8.0\Asssessment2.dll
+C:\Users\HP\source\repos\Asssessment2\Asssessment2\bin\Debug\net8.0\Asssessment2.pdb
+C:\Users\HP\source\repos\Asssessment2\Asssessment2\obj\Debug\net8.0\Asssessment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Asssessment2\Asssessment2\obj\Debug\net8.0\Asssessment2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Asssessment2\Asssessment2\obj\Debug\net8.0\Asssessment2.AssemblyInfo.cs
+C:\Users\HP\source\repos\Asssessment2\Asssessment2\obj\Debug\net8.0\Asssessment2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Asssessment2\Asssessment2\obj\Debug\net8.0\Asssessment2.dll
+C:\Users\HP\source\repos\Asssessment2\Asssessment2\obj\Debug\net8.0\refint\Asssessment2.dll
+C:\Users\HP\source\repos\Asssessment2\Asssessment2\obj\Debug\net8.0\Asssessment2.pdb
+C:\Users\HP\source\repos\Asssessment2\Asssessment2\obj\Debug\net8.0\Asssessment2.genruntimeconfig.cache
+C:\Users\HP\source\repos\Asssessment2\Asssessment2\obj\Debug\net8.0\ref\Asssessment2.dll
